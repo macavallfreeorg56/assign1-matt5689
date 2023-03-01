@@ -1,0 +1,15 @@
+C:\Users\macavall\source\repos\DfMFunctionV1\DfMFunctionV1\bin\sh\Debug\net6.0\consoleapp56.exe
+C:\Users\macavall\source\repos\DfMFunctionV1\DfMFunctionV1\bin\sh\Debug\net6.0\consoleapp56.deps.json
+C:\Users\macavall\source\repos\DfMFunctionV1\DfMFunctionV1\bin\sh\Debug\net6.0\consoleapp56.runtimeconfig.json
+C:\Users\macavall\source\repos\DfMFunctionV1\DfMFunctionV1\bin\sh\Debug\net6.0\consoleapp56.dll
+C:\Users\macavall\source\repos\DfMFunctionV1\DfMFunctionV1\bin\sh\Debug\net6.0\consoleapp56.pdb
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\consoleapp56.csproj.AssemblyReference.cache
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\consoleapp56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\consoleapp56.AssemblyInfoInputs.cache
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\consoleapp56.AssemblyInfo.cs
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\consoleapp56.csproj.CoreCompileInputs.cache
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\consoleapp56.dll
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\refint\consoleapp56.dll
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\consoleapp56.pdb
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\consoleapp56.genruntimeconfig.cache
+C:\Users\macavall\source\repos\DfMFunctionV1\consoleapp56\obj\Debug\net6.0\ref\consoleapp56.dll
