@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Assign1Test1",
+      "setup": "dotnet build",
+      "run": "consoleapp56.exe",
+      "input": "1",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
